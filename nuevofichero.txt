@@ -6,3 +6,4 @@ Cambio Marta
 Cambio en Git
 La Revuelta ha ganado
 no se ha
+cambio simultaneo
